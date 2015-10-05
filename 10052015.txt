@@ -1,0 +1,2 @@
+Jimm Short <jshort@lenovo.com>; Lama Chakra <lchakra@lenovo.com>; Mike Rollins <mrollins@lenovo.com>; Helen Yehua Du <duyh4@lenovo.com>; Jie JC Chen <chenjie19@lenovo.com>; Carol Zhao <zhaoqz1@lenovo.com>; Mike Weiming Lin <linwm2@lenovo.com>; Yang Yang61 Liu <liuyang61@lenovo.com>; Ulysses Kao <ukao@lenovo.com>
+These are email loop if we need to send an notification for trunk build change.:qw
